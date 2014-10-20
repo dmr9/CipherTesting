@@ -1,4 +1,4 @@
 CipherTesting
 =============
 
-Some Simple Ciphers to 
+A few common ciphers implimented in Python/C++
